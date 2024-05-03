@@ -2,19 +2,19 @@
   "products": [
     {
       "id": "com.reference.Stim",
-      "product": "Jam - Raspberry,jar",
+      "product": "Men's Tree Runners",
       "image": "//cdn.allbirds.com/image/upload/f_auto,q_auto,w_1110/cms/5XbBvg6TmiaK3jZbNidzZH/f0dd53266cf2dc553221b000bc07759e/A10763W070_Tree_Runner_SVP_Global_Womens_Tree_Stormy_Cream_Hazy_Cocoa.png",
       "rate": "$80.70"
     },
     {
       "id": "com.skyrock.Ronstring",
-      "product": "Cheese - Asiago",
+      "product": "Men's SuperLight Tree Runners",
       "image": "//cdn.allbirds.com/image/upload/f_auto,q_auto,w_1110/cms/3KD9Do4rwSFLidWRq3q0sl/c4cd41ea2fce72293567b1e41d416061/A10657M080_Tree_Runner_SVP_Global_Mens_Tree_Hazy_Cocoa_Dark_Cocoa_Stony_Cream.png",
       "rate": "$75.55"
     },
     {
       "id": "com.cbslocal.Zamit",
-      "product": "Nutmeg - Ground",
+      "product": "Women's SuperLight Tree Runners",
       "image": "//cdn.allbirds.com/image/upload/f_auto,q_auto,w_1110/cms/378SN557GAQeoO3Zd93XC8/ea653990d7f6258daf1b62897004f184/A10246M090_SuperLight_TR_SVP_Mens_Stormy_Mauve_Blizzard.png",
       "rate": "$48.82"
     },
